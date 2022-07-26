@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.regBtn {
+    text-align: right;
+}
+
+.password-icon {
+    position: absolute !important;
+    right: 30px;
+    margin-top: -28px;
+}
+
+@media screen and (max-width:500px) {
+    .form {
+        margin-top: 1rem !important;
+    }
+}
